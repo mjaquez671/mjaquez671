@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mjaquez671
-- 👀 I’m interested in Python, VBA, and Java app development.
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Python, VB.NET, and Java app development.
+- 🌱 I’m currently working in Java
+- 💞️ Love using AWS
 - 📫 How to reach me mjaquez671@gmail.com
 
 <!---
